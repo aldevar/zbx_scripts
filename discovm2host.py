@@ -11,7 +11,7 @@ __author__ = "Alain Devarieux"
 __license__ = "GPL"
 __version__ = 1.1
 __maintainer__ = "Alain Devarieux"
-__email__ = "alain.devarieux@sib.fr"
+__email__ = "alain@devarieux.net"
 
 
 zabbixurl = "http://zabbix.url/folder"
